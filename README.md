@@ -276,7 +276,7 @@ The final payment.js looks like this:
 })();
 ```
 
-Replace the hard coded value for the json returned in the show action with the values of the payment record for a given payment id from the javascript poll request. You can download the source code for this article from [Poll]( 'Poll')
+Replace the hard coded value for the json returned in the show action with the values of the payment record for a given payment id from the javascript poll request. You can download the source code for this article from [Poll](https://github.com/bparanj/spol 'Poll')
 
 ## References
 
